@@ -14,11 +14,6 @@ const nextBtn = document.getElementById('next');
 // Music
 const song = [
     {
-        name: 'beat_it',
-        displayName: 'Beat It',
-        artist: 'Michael Jackson'
-    },
-    {
         name: 'Dna',
         displayName: 'DNA',
         artist: 'Kendrick Lamar'
