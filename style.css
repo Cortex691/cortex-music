@@ -9,15 +9,13 @@ body {
   min-height: 100vh;
   background: #c9ced3;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
   font-family: Spartan, sans-serif;
   font-size: 12px;
 }
 
-lign-items: flex-end;
-}
+
 
 
 .player-container {
