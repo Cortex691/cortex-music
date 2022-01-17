@@ -44,7 +44,7 @@ const song = [
         artist: 'Tyler the Creator'
     },
     {
-        name: 'Bound_2',
+        name: 'bound_2',
         displayName: 'Bound 2',
         artist: 'Kanye West'
     },
