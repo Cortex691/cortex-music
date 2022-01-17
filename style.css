@@ -9,11 +9,18 @@ body {
   min-height: 100vh;
   background: #c9ced3;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  justify-content: space-evenly;
   align-items: center;
   font-family: Spartan, sans-serif;
   font-size: 12px;
 }
+
+.header {
+  display: flex;
+  align-items: flex-end;
+}
+
 
 .player-container {
   height: 500px;
