@@ -14,6 +14,21 @@ const nextBtn = document.getElementById('next');
 // Music
 const song = [
     {
+        name: 'smooth_criminal',
+        displayName: 'Smooth Criminal',
+        artist: 'Michael Jackson'
+    },
+    {
+        name: 'escape_plan',
+        displayName: 'ESCAPE PLAN',
+        artist: 'Travis Scott'
+    },
+    {
+        name: 'remember_the_time',
+        displayName: 'Remember The Time',
+        artist: 'Michael Jackson'
+    },
+    {
         name: 'Dna',
         displayName: 'DNA',
         artist: 'Kendrick Lamar'
