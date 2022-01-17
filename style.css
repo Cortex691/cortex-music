@@ -15,9 +15,6 @@ body {
   font-size: 12px;
 }
 
-
-
-
 .player-container {
   height: 500px;
   width: 400px;
@@ -109,7 +106,7 @@ h3 {
 
 /* Media Query: iPhone (Vertical) */
 @media screen and (max-width: 376px) {
-  .player-container {
+  .image-container {
     width: 90vw;
   }
 
